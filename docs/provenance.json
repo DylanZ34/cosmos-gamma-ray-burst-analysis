@@ -1,0 +1,32 @@
+[
+  {
+    "source": "Downloads/Gamma-ray burst plots.ipynb",
+    "destination": "notebooks/grb_energy_lightcurves.ipynb",
+    "source_sha256": "4cb074d9c89bed8c4fbe410e13783b66e42e3a78a1a208883fcd41894b605325"
+  },
+  {
+    "source": "Downloads/Gamma-ray burst plots (1).ipynb",
+    "destination": "notebooks/grb080916c_lightcurve.ipynb",
+    "source_sha256": "3f1ce2176d3b98f5d01d38bc439514cb7f777476ba929714f8b74be6db3ceff3"
+  },
+  {
+    "source": "Downloads/photon_time_energy_GRB080916C.txt",
+    "destination": "data/photon_time_energy_GRB080916C.txt",
+    "source_sha256": "081e34dfbbc737022ca5c87a2406e6abd57d0135fe9d08e66ed997bd5bb45b9b"
+  },
+  {
+    "source": "Downloads/photon_time_energy_GRB090510.txt",
+    "destination": "data/photon_time_energy_GRB090510.txt",
+    "source_sha256": "161bd5ba9444d2edadcdbfeea05e273a086f23dcdb35e6a66c25914b0dbc9c82"
+  },
+  {
+    "source": "Downloads/photon_time_energy_GRB090926.txt",
+    "destination": "data/photon_time_energy_GRB090926.txt",
+    "source_sha256": "2cee6b0cdc796ff02d7f04ec0123e682b3c645a3071c39e70831ceb00ada0a26"
+  },
+  {
+    "source": "Downloads/photon_time_energy_GRB130427A.txt",
+    "destination": "data/photon_time_energy_GRB130427A.txt",
+    "source_sha256": "6eecec02782c5f114d99f072a8b16add70076450807a3d93101877116ade25f1"
+  }
+]
